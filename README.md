@@ -1,4 +1,4 @@
-# Assignment
+# Assignment -4
 Q1.Check if the frequency of all the digits in a number is same
 Input: N = 1234567890
 Output: YES
