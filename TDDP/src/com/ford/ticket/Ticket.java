@@ -15,9 +15,13 @@ public class Ticket {
 		
 	}
 
-	public Object getDesc() {
+	public String getDesc() {
 			
 		return desc;
+	}
+	
+	public void printTicket() {
+		System.out.println(this.ticketNumber+"    "+this.desc);
 	}
 
 }

@@ -28,5 +28,6 @@ class CalcTest {
 	void testAddwithNegative() {
 		int result=obj.add(5, -10);
 		assertEquals(-5, result);
+		
 	}
 }
