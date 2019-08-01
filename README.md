@@ -11,5 +11,3 @@ Output: NO
 Q2.Program to check if a given array is Lucky (all elements are different)
 A array is lucky if all digits of the number are different. 
 
-
-Q3. Reverse the Array without using any extra array.
