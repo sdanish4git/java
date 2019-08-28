@@ -1,3 +1,6 @@
+# Assignment -6
+Write a program to simulate a car dealership sales process. 
+Dealership will have Employees, working selling vehicle to customers.
 # Assignment -5
 1. Write a program to check a String is palindrome or not.
 2. Java Anagrams- HackerRanck link -https://www.hackerrank.com/challenges/java-anagrams/problem
