@@ -1,3 +1,15 @@
+# Assignment -7
+
+Write a program to simulate ATM Machine,
+
+ATM cards details are stored in atmDetails.txt(atmeNumber,Name,Bank,balance etc) 
+
+Program will ask to enter ATM number.
+Once User enter ATM number give following option if ATM number is valid
+1. Balance Enquiry
+2. Withdraw   - applicabel Service charge based on Bank (Overriding)
+
+
 # Assignment -6
 Write a program to simulate a car dealership sales process. 
 Dealership will have Employees, working selling vehicle to customers.
