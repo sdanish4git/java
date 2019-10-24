@@ -1,3 +1,7 @@
+# Assignment -8
+WebApplication- Admin user can list,create,delete and update supliers.
+Use- Servlet(Backend),jsp(UI) and MSAcess(DB)
+
 # Assignment -7
 
 Write a program to simulate ATM Machine,
