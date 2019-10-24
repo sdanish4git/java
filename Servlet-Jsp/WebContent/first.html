@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript">
+
+function callRegister(){
+	alert("you clicket");
+}
+
+</script>
+</head>
+<body>
+
+	<h1>This firs html page</h1>
+	User Name
+	<form method="post" action="LoginServlet">
+	
+	
+	<input type="text" name="uname" />
+	<br />
+	<br /> Password
+	<input type="password" name="upass" />
+	<br />
+	<input type="submit" value="Login" />
+	</form>
+	
+	<form method="get" action="registerServlet">
+	<input type="submit" value="SignUP" />
+	</form>
+	
+	<a href="#" onClick='callRegister()'>Click Here for Register</a>
+	
+
+
+
+</body>
+</html>
